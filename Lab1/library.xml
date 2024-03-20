@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab1.1.css"?>
+<library>
+    <location>Alexandria</location>
+    <description>Library Description</description>
+    <librarian>
+        <name>engy</name>
+        <email>engya306@gmail.com</email>
+    </librarian>
+    <books>
+        <book>
+            <title>book1</title>
+            <ISBN>97</ISBN>
+            <author>author 1</author>
+            <preface>
+                <content>preface content</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>part1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction</title>
+                            <summary>summary1</summary>
+                            <sections>
+                                <section>
+                                    <paragraph> paragraph 1</paragraph>
+                                    <paragraph>paragraph 2</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>book2</title>
+            <ISBN>75</ISBN>
+            <author>author 2</author>
+            <preface>
+                <content>preface content2</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>part1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction</title>
+                            <summary>summary1</summary>
+                            <sections>
+                                <section>
+                                    <paragraph> paragraph 1</paragraph>
+                                    <paragraph>paragraph 2</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>book3</title>
+            <ISBN>785</ISBN>
+            <author>author 3</author>
+            <preface>
+                <content>preface content3</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>part1</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction</title>
+                            <summary>summary1</summary>
+                            <sections>
+                                <section>
+                                    <paragraph> paragraph 1</paragraph>
+                                    <paragraph>paragraph 2</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
