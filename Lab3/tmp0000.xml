@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./employees.xsl"?>
+
+<Employees>
+    <employee>
+        <name>engy</name>
+        <phones>
+            <phone type="home">123-456-7890</phone>
+            <phone type="work">123-456-7891</phone>
+            <phone type="mobile">123-456-7892</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>Main St</street>
+                <building>123</building>
+                <region>Region</region>
+                <city>City</city>
+                <country>Country</country>
+            </address>
+        </addresses>
+        <email>engya306@gmail.com</email>
+    </employee>
+    <employee>
+        <name>ahmed</name>
+        <phones>
+            <phone type="home">123-456-7893</phone>
+            <phone type="work">123-456-7894</phone>
+            <phone type="mobile">123-456-7895</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>main street</street>
+                <building>456</building>
+                <region>Region</region>
+                <city>City</city>
+                <country>Country</country>
+            </address>
+        </addresses>
+        <email>ahmed@example.com</email>
+    </employee>
+</Employees>
